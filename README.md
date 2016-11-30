@@ -1,2 +1,2 @@
 # UIActivityDemo
-UIActivity自定义UIActivity和UIActivityItemSource例子,实现发送多图到微信
+自定义UIActivity和UIActivityItemSource例子,实现发送多图到微信
